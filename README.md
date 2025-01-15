@@ -33,5 +33,5 @@ descriptions and live demos.
 devices.
 
 You can view the live version of the project here: [Advanced 
-Portfolio](https://hcheem4.github.io/MyEportfolio/)
+Portfolio](https://hcheem4.github.io/Advanced-Portfolio/)
 
