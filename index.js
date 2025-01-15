@@ -6,6 +6,7 @@ let contrastToggle = false;
 const scaleFactor  = 1 / 20;
 
 function moveBackground(event) {
+  // querySelectorAll returns array
   const shapes = document.querySelectorAll(".shape")
   const x = event.clientX * scaleFactor;
   const y = event.clientY * scaleFactor;
